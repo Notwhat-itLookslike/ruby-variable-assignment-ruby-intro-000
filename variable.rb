@@ -1,2 +1,2 @@
-Variable = "greeting"
-"greeting"= "Hello World"
+local_variable= 'greeting'
+'greeting'= "Hello World"
