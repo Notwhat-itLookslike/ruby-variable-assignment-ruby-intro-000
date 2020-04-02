@@ -1,2 +1,2 @@
-local_variable = gretting
-gretting = "Hello World" 
+Variable = "greeting"
+"greeting"= "Hello World"
