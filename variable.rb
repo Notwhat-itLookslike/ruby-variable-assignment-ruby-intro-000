@@ -1,2 +1,2 @@
 local variable = greeting
-gretting = "Hello World" 
+greeting = "Hello World" 
